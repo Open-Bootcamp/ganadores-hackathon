@@ -31,4 +31,4 @@ Estos fueron los finalistas: 👇
 - PrograMATE  [Repositorio](https://github.com/LeoCipollone/programate)
 
 
-![](./logo.png)
+![](./logo2.png)

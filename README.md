@@ -27,7 +27,7 @@ Estos fueron los finalistas: 👇
 - Twilio Chat  [Repositorio](https://github.com/diegobarroso/twilio-chat)
 
 ## PrograMATE 
-#### 5. PrograMate se trata de un asistente de chat, que te brinda recursos para aprender lo que le pidas! 🤩
+#### 6. PrograMate se trata de un asistente de chat, que te brinda recursos para aprender lo que le pidas! 🤩
 - PrograMATE  [Repositorio](https://github.com/LeoCipollone/programate)
 
 
